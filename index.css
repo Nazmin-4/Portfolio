@@ -95,7 +95,7 @@ button:active{
     transform: scale(1.1);
 }
 .model{
-    height: 560px;
+    height: 500px;
     position: absolute;
     bottom: 40px;
     left: 70%;
