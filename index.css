@@ -95,7 +95,7 @@ button:active{
     transform: scale(1.1);
 }
 .model{
-    height: 500px;
+    height: 480px;
     position: absolute;
     bottom: 40px;
     left: 70%;
@@ -165,6 +165,15 @@ h3{
     padding:20px;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25),0 10px 10px rgba(0,0,0,0.22);
 }
+.skilll{
+    text-transform: uppercase;
+    list-style-type: none;
+    width:500px;
+    margin:60px auto;
+    color:black;
+    padding:20px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25),0 10px 10px rgba(0,0,0,0.22);
+}
 .skilll li{
     margin:20px 0;
     padding : 10px;
@@ -176,7 +185,7 @@ h2{
     color:black;
     text-decoration: underline;
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .skilll p{
     color:#1a1a1a;
